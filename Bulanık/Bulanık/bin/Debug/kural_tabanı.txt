@@ -1,0 +1,27 @@
+hassas,küçük,küçük,hassas,kısa,çok az
+hassas,küçük,orta,normal hassas,kısa,az
+hassas,küçük,büyük,orta,normal kısa,orta
+hassas,orta,küçük,hassas,kısa,orta
+hassas,orta,orta,normal hassas,normal kısa,orta
+hassas,orta,büyük,orta,orta,fazla
+hassas,büyük,küçük,normal hassas,normal kısa,orta
+hassas,büyük,orta,normal hassas,orta,fazla
+hassas,büyük,büyük,orta,normal uzun,fazla
+orta,küçük,küçük,normal hassas,normal kısa,az
+orta,küçük,orta,orta,kısa,orta
+orta,küçük,büyük,normal güçlü,orta,fazla
+orta,orta,küçük,normal hassas,normal kısa,orta
+orta,orta,orta,orta,orta,orta
+orta,orta,büyük,hassas,uzun,fazla
+orta,büyük,küçük,hassas,orta,orta
+orta,büyük,orta,hassas,normal uzun,fazla
+orta,büyük,büyük,hassas,uzun,çok fazla
+sağlam,küçük,küçük,orta,orta,az
+sağlam,küçük,orta,normal güçlü,orta,orta
+sağlam,küçük,büyük,güçlü,normal uzun,fazla
+sağlam,orta,küçük,orta,orta,orta
+sağlam,orta,orta,normal güçlü,normal uzun,orta
+sağlam,orta,büyük,güçlü,orta,çok fazla
+sağlam,büyük,küçük,normal güçlü,normal uzun,fazla
+sağlam,büyük,orta,normal güçlü,uzun,fazla
+sağlam,büyük,büyük,güçlü,uzun,çok fazla 

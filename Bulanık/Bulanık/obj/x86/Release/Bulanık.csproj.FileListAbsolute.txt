@@ -1,0 +1,8 @@
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\bin\Release\Bulanık.exe
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\bin\Release\Bulanık.pdb
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Release\WindowsFormsApplication1.OzelKontrol.resources
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Release\Bulanık.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Release\Bulanık.exe
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Release\Bulanık.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mustafa\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Mustafa\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Mustafa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Mustafa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mustafa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Mustafa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\Mustafa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

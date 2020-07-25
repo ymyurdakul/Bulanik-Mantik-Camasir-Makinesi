@@ -1,0 +1,13 @@
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\bin\Debug\Bulanık.exe
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\bin\Debug\Bulanık.pdb
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\WindowsFormsApplication1.OzelKontrol.resources
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\Bulanık.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\Bulanık.exe
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\Bulanık.pdb
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\WindowsFormsApplication1.DetayForm.resources
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\WindowsFormsApplication1.CıktıDetay.resources
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\WindowsFormsApplication1.Hakkında.resources
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\Bulanık.csprojAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Bulanık\Bulanık\obj\x86\Debug\Bulanık.csproj.CoreCompileInputs.cache
